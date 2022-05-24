@@ -12,7 +12,7 @@ Yardımları için [Richard](https://github.com/belaliyim)'a teşekkür ediyorum
 ![Profile Count](https://komarev.com/ghpvc/?username=discord-guard-v13&label=Project%20visits&color=blueviolet)&nbsp;
 
 # Kurulum Nasıl Yapılır?
-- güncellemelerde ekleyeceğim
+- (https://media.discordapp.net/attachments/949672780402675712/978581304759177247/20220524_115042.png)
 
 # Guard Proje Resimleri
 - güncellemelerde ekleyeceğim.
