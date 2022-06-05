@@ -2,7 +2,7 @@
 
 # 65+ Star ve 40+ Fork geldiği zaman paylaşıyorum
 - Discord-Guard-V13 sürekli güncellenen gündemde kalmasını istediğim ve kalacağını düşündüğüm bir projedir.
-- V13 Setup Guard projesini `Mongo DB` kullanarak yaptığımız, hataları `Issues` oluşturarak bildirebilirsiniz.
+- V13 Setup Guard projesini `FRESH DB` kullanarak yaptığımız, hataları `Issues` oluşturarak bildirebilirsiniz.
 - Proje karşılığında hiçbir şey istemiyorum ama aldığınız zamanda benden olduğuna dair ufak bir imza bırakırsanız sevinirim.
 
 Yardımları için [Richard](https://github.com/belaliyim)'a teşekkür ediyorum.
