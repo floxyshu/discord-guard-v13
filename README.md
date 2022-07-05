@@ -1,5 +1,7 @@
 # Discord Guard Setup V13 Projesi
 
+Projeyi iptal ediyorum fakat ileride belki paylasirim bitirip
+
 # 65+ Star ve 40+ Fork geldiği zaman paylaşıyorum
 - Discord-Guard-V13 sürekli güncellenen gündemde kalmasını istediğim ve kalacağını düşündüğüm bir projedir.
 - V13 Setup Guard projesini `QUICK.DB` kullanarak yaptığımız, hataları `Issues` oluşturarak bildirebilirsiniz.
